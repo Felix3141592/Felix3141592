@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Felix3141592
+- 👀 I’m interested in coding especially with Python and write my lessons and my reports in LaTeX 
+- 🌱 I’m currently learning at Le Havre University at the Masters level in Energy.
